@@ -149,5 +149,12 @@ input, select{
 }
 
 .done{
-    background-color: rgb(0, 255, 170) ;
+    background-color: rgba(0, 170, 0, 0.627) ;
+}
+
+.done h3{
+    color: #102f5d;
+    
+    text-decoration: line-through;
+    font-style: italic;
 }
